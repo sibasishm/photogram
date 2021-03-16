@@ -5,7 +5,7 @@ export default function Home(): JSX.Element {
 		<>
 			<Head>
 				<link rel='shortcut icon' href='favicon.ico' type='image/x-icon' />
-				<title>Flopkart</title>
+				<title>Photogram</title>
 			</Head>
 			<main className='container p-8 mx-auto'>
 				<ol className='grid grid-cols-1 gap-12 md:grid-cols-2'>

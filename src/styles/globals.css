@@ -11,6 +11,6 @@
 			sans-serif;
 	}
 	body {
-		@apply antialiased text-dark;
+		@apply antialiased text-dark bg-gray-50;
 	}
 }

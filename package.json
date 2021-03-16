@@ -27,12 +27,16 @@
 		]
 	},
 	"dependencies": {
+		"date-fns": "^2.19.0",
+		"firebase": "^8.3.0",
 		"next": "latest",
 		"react": "^17.0.1",
 		"react-dom": "^17.0.1"
 	},
 	"devDependencies": {
+		"@testing-library/jest-dom": "^5.11.9",
 		"@testing-library/react": "^11.2.5",
+		"@testing-library/user-event": "^12.8.3",
 		"@types/babel__core": "^7.1.12",
 		"@types/jest": "^26.0.20",
 		"@types/node": "^14.14.34",
