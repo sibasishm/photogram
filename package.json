@@ -1,7 +1,9 @@
 {
-	"name": "with-tailwindcss",
+	"name": "photogram",
+	"description": "A photo and video-sharing social networking service",
 	"version": "0.1.0",
 	"private": true,
+	"license": "MIT",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
